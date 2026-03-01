@@ -1,0 +1,22 @@
+# --- secrets / private ---
+private/
+**/*token*
+**/*apikey*
+**/*api_key*
+**/*secret*
+**/*password*
+**/*credential*
+**/*pairing*
+
+# OpenClaw runtime / logs
+**/*.log
+**/.DS_Store
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Local env files
+.env
+.env.*
