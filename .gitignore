@@ -35,3 +35,12 @@ __pycache__/
 workspace/
 skills_backups/
 tests/tmp_manifest/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
