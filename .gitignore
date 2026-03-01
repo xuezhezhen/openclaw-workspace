@@ -30,3 +30,8 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+# Noise directories that should never be versioned
+workspace/
+skills_backups/
+tests/tmp_manifest/
