@@ -20,3 +20,13 @@ build/
 # Local env files
 .env
 .env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
